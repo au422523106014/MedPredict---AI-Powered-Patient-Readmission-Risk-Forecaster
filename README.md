@@ -99,6 +99,7 @@ The dataset is used for training and testing the machine learning model.
 
 ![Sample prediction output](Images/sample_prediction_output.png)
 
+
 🚀 Future Improvements
 
 - Develop a web-based user interface.
