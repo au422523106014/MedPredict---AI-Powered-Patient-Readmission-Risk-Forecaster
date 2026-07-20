@@ -81,11 +81,23 @@ The dataset is used for training and testing the machine learning model.
 
 ---
 
-📷 Project Images
+## 📷 Project Images
 
-Project screenshots, workflow diagrams, and sample prediction outputs are available in the Images folder.
+### System Architecture
+
+![System Architecture](Images/system_architecture.png)
 
 ---
+
+### Workflow Diagram
+
+![Workflow Diagram](Images/workflow.png)
+
+---
+
+### Sample prediction output
+
+![Sample prediction output](Images/sample_prediction_output.png)
 
 🚀 Future Improvements
 
